@@ -141,7 +141,7 @@ translator:requestLang(frame, "first")
     title.BackgroundColor3 = Color3.fromRGB(50, 57, 73)
     title.Size = UDim2.new(1, 0, 0, 50)
     title.Font = Enum.Font.SourceSansBold
-    title.Text = "TALENTLESS"
+    title.Text = "PIANO🎹"
     title.TextColor3 = Color3.fromRGB(255, 255, 255)
     title.TextSize = 46
     title.ZIndex = 2
@@ -2495,18 +2495,8 @@ for _, songFrame in ipairs(customsongbuttons) do
 end
 
 print([[
-
-
-
- __ __|   \     |      ____|   \  | __ __|  |      ____|   ___|   ___|
-    |    _ \    |      __|      \ |    |    |      __|   \___ \ \___ \
-    |   ___ \   |      |      |\  |    |    |      |           |      |
-   _| _/    _\ _____| _____| _| \_|   _|   _____| _____| _____/ _____/
-
-
+BubulID
 
 ]])
 
-print("Copyright (C) 2025 hellohellohell012321")
-
-loadstring(game:HttpGet("https://cdn.jsdelivr.net/gh/hellohellohell012321/TALENTLESS@main/logger.lua", true))()
+print("Copyright (C) 2025 BubulID")
